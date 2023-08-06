@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Bartleen.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
 .hello{
     color: red;
+    font-family: 'MyFont';
+    background-image: url('./icon.png');
 }
