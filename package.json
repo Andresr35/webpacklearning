@@ -17,6 +17,8 @@
   "description": "",
   "devDependencies": {
     "css-loader": "^6.8.1",
-    "style-loader": "^3.3.3"
+    "csv-loader": "^3.0.5",
+    "style-loader": "^3.3.3",
+    "xml-loader": "^1.2.1"
   }
 }
